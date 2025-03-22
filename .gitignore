@@ -1,0 +1,30 @@
+# General
+.DS_Store
+node_modules/
+dist/
+.env
+logs/
+database/
+
+# Backend (Spring Boot)
+target/
+*.log
+*.jar
+*.war
+*.iml
+.idea/
+.mvn/
+*.class
+
+# Frontend (React)
+node_modules/
+build/
+.cache/
+.npm/
+
+# IDE & OS-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
